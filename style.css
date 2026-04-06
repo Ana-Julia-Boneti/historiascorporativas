@@ -1,0 +1,16 @@
+ body {
+            /* Fundo degradê do azul claro para azul escuro */
+            background: linear-gradient(to bottom right, #e699cf, #b41754);
+            line-height: 1.5;
+            text-align: justify;
+            font-family: sans-serif;
+            margin: 2em;
+            border: solid 1px;
+            padding: 2em;
+            font-family: Arial, sans-serif;
+            min-height: 100vh; /* garante que o degradê ocupe a tela toda */
+        }
+        h2{
+            text-align: center;
+            color: black;
+        }

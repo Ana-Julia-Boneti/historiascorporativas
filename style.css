@@ -1,20 +1,72 @@
  body {
-            /* Fundo degradê do azul claro para azul escuro */
-            background: linear-gradient(to bottom right, #4574b9, #13cc31);
-            line-height: 1.5;
-            text-align: justify;
-            font-family: sans-serif;
-            margin: 2em;
-            border: solid 1px;
-            padding: 2em;
-            font-family: Arial, sans-serif;
-            min-height: 100vh; /* garante que o degradê ocupe a tela toda */
-        }
-        h2{
-            text-align: center;
-            color: black;
-        }
-        
-        h1{
-            text-center
-        }
+     /* Fundo degradê do azul claro para azul escuro */
+     background: linear-gradient(to bottom right, #4574b9, #1c5a27);
+     line-height: 1.5;
+     text-align: justify;
+     font-family: sans-serif;
+     margin: 2em;
+     border: solid 1px;
+     padding: 2em;
+     font-family: Arial, sans-serif;
+     min-height: 100vh;
+     /* garante que o degradê ocupe a tela toda */
+ }
+
+ h2 {
+     text-align: center;
+     color: black;
+ }
+
+ h1 {
+     text-center
+ }
+
+ button {
+     width: 150px;
+     height: 40px;
+     border-radius: 10px;
+
+     display: block;
+     margin: auto;
+
+ }  
+
+ button a {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: rgb(20, 2, 2);
+     text-decoration: none;
+ }
+
+ img {
+     display: block;
+     margin: auto;
+     width: 50%px;
+ }
+
+ header{
+
+
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
